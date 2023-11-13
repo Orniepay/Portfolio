@@ -1,4 +1,10 @@
 const Nav = () => {
+  const scroll = (id) => {
+    const el = document.getElementById(id)
+
+    el.scrollIntoView({ behavior: 'smooth' })
+  }
+
   return (
     <nav className="flex w-full items-center justify-between">
       <div className="text-purple-light hover:text-purple-dark text-[30px] cursor-pointer">
@@ -6,7 +12,10 @@ const Nav = () => {
       </div>
 
       <div className="flex gap-10 items-center">
-        <div className="text-purple-light hover:text-purple-dark cursor-pointer">
+        <div
+          className="text-purple-light hover:text-purple-dark cursor-pointer"
+          onClick={() => scroll('about')}
+        >
           about
         </div>
         <a
@@ -17,10 +26,16 @@ const Nav = () => {
         >
           blog
         </a>
-        <div className="text-[#beb7cb] hover:text-[#453f53] cursor-pointer">
+        <div
+          className="text-[#beb7cb] hover:text-[#453f53] cursor-pointer"
+          onClick={() => scroll('projects')}
+        >
           projects
         </div>
-        <div className="text-[#beb7cb] hover:text-[#453f53] cursor-pointer">
+        <div
+          className="text-[#beb7cb] hover:text-[#453f53] cursor-pointer"
+          onClick={() => scroll('contact')}
+        >
           contact
         </div>
       </div>
