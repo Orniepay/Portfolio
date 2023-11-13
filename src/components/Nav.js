@@ -7,9 +7,12 @@ const Nav = () => {
 
   return (
     <nav className="flex w-full items-center justify-between">
-      <div className="text-purple-light hover:text-purple-dark text-[30px] cursor-pointer">
+      <a
+        href="/"
+        className="text-purple-light block hover:text-purple-dark text-[30px] cursor-pointer"
+      >
         ✦
-      </div>
+      </a>
 
       <div className="flex gap-6 sm:gap-10 items-center text-xs sm:text-[14px]">
         <div
