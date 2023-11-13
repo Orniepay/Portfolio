@@ -10,7 +10,7 @@ function App() {
         <Nav />
       </header>
 
-      <main>
+      <main className="flex flex-col items-center">
         <Home />
       </main>
     </div>
