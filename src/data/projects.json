@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Digital Garden Client & API",
+    "description": "Simple personal website used to blog about dev projects, and other things that are on my mind.",
+    "tech": "Node.js • Express • PostgreSQL • Sequelize • TypeScript • Vue3 • Piñia",
+    "frontend": "https://github.com/alliecaton/digital-garden/",
+    "backend": "https://github.com/alliecaton/api-digital-garden",
+    "link": "garden.alliecaton.com"
+  },
+  {
+    "title": "Collager",
+    "description": "Collager is a simple tool for digital collaging. It connects with the Unsplash API to help collagers collect photos to work with.",
+    "tech": "React • TypeScript • Unsplash API",
+    "github": "https://github.com/alliecaton/collager",
+    "link": "https://alliecaton.github.io/collager/"
+  },
+  {
+    "title": "MarketEdge",
+    "description": "Data dashboard for B2G companies to track active RFP procurement opportunities and other vital information for their sales & marketing efforts. Link below links to a marketing website for the MarketEdge application, as the application itself is a paid product.",
+    "tech": "Vue3 • TypeScript • Piñia • Laravel • Cypress",
+    "link": "https://theatlasmarketedge.com/"
+  },
+  {
+    "title": "The Atlas",
+    "description": "LinkedIn style community for local government officials to connect and share resources. Includes posting functionality, private messaging, and case study article creator/editor and viewer.",
+    "tech": "Vue + Options API • Nuxt • TypeScript • Vuex • Cypress",
+    "link": "https://the-atlas.com"
+  }
+]
