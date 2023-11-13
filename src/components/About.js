@@ -2,9 +2,9 @@ const work = require('../data/work-experience.json')
 
 const About = () => {
   const workFormatted = () => {
-    return work.map((job) => {
+    return work.map((job, index) => {
       return (
-        <div>
+        <div key={index}>
           <div className="mt-3 text-yellow">{job.title}</div>
           <div className="mt-1 text-purple-light">{job.company}</div>
           <div className="mt-1 text-purple-dark">{job.time}</div>

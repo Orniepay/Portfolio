@@ -43,11 +43,12 @@ const Projects = () => {
   const projectsFormatted = () => {
     return projects.map((project) => {
       return (
-        <div className="w-full sm:basis-[45%]">
+        <div key={project.title}>
+          {' '}
+          className="w-full sm:basis-[45%]">
           <div className="text-yellow text-xl">{project.title}</div>
           <div className="text-yellow mt-3">{project.description}</div>
           <div className="text-teal mt-3">{project.tech}</div>
-
           <div className="mt-3 flex items-center">
             <a
               className="py-[2px] px-2 bg-purple-light text-purple-dark rounded-md hover:bg-purple-dark hover:text-purple-light"
