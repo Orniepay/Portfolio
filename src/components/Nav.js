@@ -2,7 +2,7 @@ const Nav = () => {
   const scroll = (id) => {
     const el = document.getElementById(id)
 
-    el.scrollIntoView({ behavior: 'smooth' })
+    el.scrollIntoView({ behavior: 'smooth', inline: 'center' })
   }
 
   return (
@@ -11,7 +11,7 @@ const Nav = () => {
         ✦
       </div>
 
-      <div className="flex gap-10 items-center">
+      <div className="flex gap-6 sm:gap-10 items-center text-xs sm:text-[14px]">
         <div
           className="text-purple-light hover:text-purple-dark cursor-pointer"
           onClick={() => scroll('about')}

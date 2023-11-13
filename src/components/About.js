@@ -50,7 +50,7 @@ const About = () => {
       </div>
 
       <div>
-        <div className="text-purple-light text-2xl mb-3">Work Experience</div>
+        <div className="text-purple-light text-2xl mb-6">Work Experience</div>
 
         <div className="mt-3">{workFormatted()}</div>
 

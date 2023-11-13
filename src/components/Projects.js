@@ -43,7 +43,7 @@ const Projects = () => {
   const projectsFormatted = () => {
     return projects.map((project) => {
       return (
-        <div id="projects" className="basis-full sm:basis-[45%]">
+        <div className="w-full sm:basis-[45%]">
           <div className="text-yellow text-xl">{project.title}</div>
           <div className="text-yellow mt-3">{project.description}</div>
           <div className="text-teal mt-3">{project.tech}</div>
@@ -65,7 +65,7 @@ const Projects = () => {
   }
 
   return (
-    <div className="w-full my-24">
+    <div id="projects" className="w-full my-24">
       <div className="text-2xl text-purple-light mb-6">Projects</div>
 
       <div className="container flex flex-row gap-20 flex-wrap">
