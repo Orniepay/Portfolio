@@ -20,13 +20,20 @@ const About = () => {
 
         <div className="text-yellow">
           <p className="mt-3">
-            I'm Allie, a full-stack web developer. I'm interested in building
-            clean and effective applications with people who are similarly
-            passionate.
+            I'm Allie, a full-stack web developer. I'm interested in
+            contributing to projects where my creativity and curiosity can be
+            expressed, and my knowledge expanded. Teams where everyone -- my
+            co-collaborators, stakeholders, leaders -- share a common goal in
+            making an awesome product that delights its users.
           </p>
           <p className="mt-3">
-            In my free time, I dabble in building electronic hardware, drawing,
-            reading, and mooning over my mechanical keyboard.
+            I thrive on diving into projects that push my boundaries and spark
+            interest. For me, it's all about mixing it up, whether it's coding,
+            collaborating, or learning something totally new.
+          </p>
+          <p className="mt-3">
+            In my free time, I dabble in building electronic hardware, rock
+            climbing, reading, and mooning over my mechanical keyboard.
           </p>
           <p className="mt-3">
             Here are a few technologies I've been working with recently:
