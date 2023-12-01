@@ -20,7 +20,7 @@ const About = () => {
 
         <div className="text-yellow">
           <p className="mt-3">
-            I'm Allie, a full-stack web developer. I'm interested in
+            I'm Allie, a full-stack software engineer. I'm interested in
             contributing to projects where my creativity and curiosity can be
             expressed, and my knowledge expanded. Teams where everyone -- my
             co-collaborators, stakeholders, leaders -- share a common goal in

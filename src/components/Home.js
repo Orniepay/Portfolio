@@ -16,7 +16,9 @@ const Home = () => {
             <span className="text-purple-dark "> {`{`}</span>{' '}
           </p>
           <div className="my-9">
-            <p className="pl-6 text-lg text-yellow">full-stack developer</p>
+            <p className="pl-6 text-lg text-yellow">
+              full-stack software engineer
+            </p>
           </div>
           <p className="text-purple-dark text-2xl"> {`}`} </p>
 
