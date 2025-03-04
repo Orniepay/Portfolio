@@ -35,24 +35,6 @@ const About = () => {
             In my free time, I dabble in building electronic hardware, rock
             climbing, reading, and mooning over my mechanical keyboard.
           </p>
-          <p className="mt-3">
-            Here are a few technologies I've been working with recently:
-          </p>
-          <div className="pl-3 mt-3 text-teal">
-            <div className="mt-2">
-              <span className="text-purple-light">{`>`}</span> JavaScript +
-              TypeScript
-            </div>
-            <div className="mt-2">
-              <span className="text-purple-light">{`>`}</span> Vue 3
-            </div>
-            <div className="mt-2">
-              <span className="text-purple-light">{`>`}</span> React
-            </div>
-            <div className="mt-2">
-              <span className="text-purple-light">{`>`}</span> NodeJS + Express
-            </div>
-          </div>
         </div>
       </div>
 

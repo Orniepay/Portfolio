@@ -1,18 +1,17 @@
 [
   {
+    "title": "Thinking Money 4 Kids",
+    "description": "Suite of browser-based games and activities built for The American Library Association & FINRA to teach kids about financial literacy. My work on this project also included creating android versions of the games to be used on proprietary android tablets.",
+    "tech": "React • Vue3 • TypeScript • JavaScript • Cordova (for android versions)",
+    "link": "https://tm4k.ala.org/"
+  },
+  {
     "title": "Digital Garden Client & API",
     "description": "Simple personal website used to blog about dev projects, and other things that are on my mind.",
     "tech": "Node.js • Express • PostgreSQL • Sequelize • TypeScript • Vue3 • Piñia",
     "frontend": "https://github.com/alliecaton/digital-garden/",
     "backend": "https://github.com/alliecaton/api-digital-garden",
     "link": "https://garden.alliecaton.com"
-  },
-  {
-    "title": "Collager",
-    "description": "Collager is a simple tool for digital collaging. It connects with the Unsplash API to help collagers collect photos to work with.",
-    "tech": "React • TypeScript • Unsplash API",
-    "github": "https://github.com/alliecaton/collager",
-    "link": "https://alliecaton.github.io/collager/"
   },
   {
     "title": "MarketEdge",
