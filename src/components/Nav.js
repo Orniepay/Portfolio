@@ -21,14 +21,6 @@ const Nav = () => {
         >
           about
         </div>
-        <a
-          target="_blank"
-          href="https://garden.alliecaton.com"
-          rel="noreferrer"
-          className="text-[#beb7cb] hover:text-[#453f53] cursor-pointer"
-        >
-          blog
-        </a>
         <div
           className="text-[#beb7cb] hover:text-[#453f53] cursor-pointer"
           onClick={() => scroll('projects')}
