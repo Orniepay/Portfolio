@@ -2,7 +2,7 @@
 
 Welcome to my portfolio repo!
 
-[Visit my portfolio here](https://portfolio-orniepays-projects.vercel.app/)
+[Visit my portfolio here](https://portfolio-izl0ptd5y-orniepays-projects.vercel.app/)
 
 ## Usage
 
