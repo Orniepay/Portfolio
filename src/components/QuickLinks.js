@@ -8,7 +8,7 @@ const QuickLinks = () => {
       <span className="text-sm mr-3 ">{`>> `}</span>
 
       <a
-        href="https://github.com/alliecaton"
+        href="https://github.com/Orniepay"
         className="px-1 hover:text-purple-dark text-2xl"
         target="_blank"
         rel="noreferrer noopener"
@@ -24,7 +24,7 @@ const QuickLinks = () => {
         <AiOutlineDownload />
       </a>
       <a
-        href="https://www.linkedin.com/in/alliecaton/"
+        href="https://www.linkedin.com/in/ornie-payer/"
         className="px-1 hover:text-purple-dark text-2xl"
         target="_blank"
         rel="noreferrer noopener"

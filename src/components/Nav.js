@@ -11,7 +11,7 @@ const Nav = () => {
         href="/"
         className="text-purple-light block hover:text-purple-dark text-[30px] cursor-pointer"
       >
-        ✦
+       🏎️✦🚓
       </a>
 
       <div className="flex gap-6 sm:gap-10 items-center text-xs sm:text-[14px]">
@@ -22,13 +22,13 @@ const Nav = () => {
           about
         </div>
         <div
-          className="text-[#beb7cb] hover:text-[#453f53] cursor-pointer"
+          className="text-purple-light hover:text-purple-dark cursor-pointer"
           onClick={() => scroll('projects')}
         >
           projects
         </div>
         <div
-          className="text-[#beb7cb] hover:text-[#453f53] cursor-pointer"
+          className="text-purple-light hover:text-purple-dark cursor-pointer"
           onClick={() => scroll('contact')}
         >
           contact

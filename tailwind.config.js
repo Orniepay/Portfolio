@@ -7,8 +7,8 @@ module.exports = {
       current: 'currentColor',
       white: '#ffffff',
       purple: {
-        light: '#beb7cb',
-        dark: '#453f53',
+        light: '#81a1c1',
+        dark: '#eceff4',
       },
       yellow: '#ffd644',
       teal: '#d9f3f9',

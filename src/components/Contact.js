@@ -7,28 +7,28 @@ const Contact = () => {
       <span className="text-purple-light">Please reach out to me at </span>
       <a
         className="text-yellow underline"
-        href="mailto:alliecaton3@gmail.com"
+        href="mailto:payerornie@gmail.com"
         target="_blank"
         rel="noreferrer"
       >
-        alliecaton3@gmail.com
+        payerornie@gmail.com
       </a>
       <span className="text-purple-light"> for inquiries.</span>
 
       <div className="mt-9 credits">
-        <p className="text-teal mb-3">console.log(credits, goodbye)</p>
+        <p className="text-teal mb-3">print(credits, goodbye)</p>
         <p className="text-purple-light">
-          {`>>`} design inspired by my favorite text editor theme,{' '}
+          {`>>`} design inspired by Allie Caton and my favorite text editor theme,{' '}
           <a
             className="text-purple-light"
-            href="https://sailorhg.github.io/fairyfloss/"
+            href="https://www.nordtheme.com/"
             target="_blank"
             rel="noreferrer noopener"
           >
-            Fairyfloss
+            Nord
           </a>
         </p>
-        <div className="text-purple-light">{`>>`} thanks for visiting! :)</div>
+        <div className="text-purple-light">{`>>`} thanks for visiting! :D</div>
 
         <QuickLinks />
       </div>

@@ -20,20 +20,28 @@ const About = () => {
 
         <div className="text-yellow">
           <p className="mt-3">
-            I'm Allie, a full-stack software engineer. I'm interested in
-            contributing to projects where my creativity and curiosity can be
-            expressed, and my knowledge expanded. Teams where everyone -- my
-            co-collaborators, stakeholders, leaders -- share a common goal in
-            making an awesome product that delights its users.
+            I'm Ornie, a software engineer who loves working on 
+            projects where I can bring my creativity and curiosity to the 
+            table, and pick up new skills along the way expanding my 
+            knowledge. I'm drawn to teams where everyone-whether it's 
+            collaborators, stakeholders, or leaders-is united by the goal 
+            of building something great that truly engages its users.
           </p>
           <p className="mt-3">
-            I thrive on diving into projects that push my boundaries and spark
-            interest. For me, it's all about mixing it up, whether it's coding,
-            collaborating, or learning something totally new.
+            I really enjoy jumping into projects that challenge me and spark 
+            interest. Whether it's coding, teaming up with others, or learning 
+            something new, I'm all about mixing it up and staying curious.
           </p>
           <p className="mt-3">
-            In my free time, I dabble in building electronic hardware, rock
-            climbing, reading, and mooning over my mechanical keyboard.
+            In my free time, I love reading, traveling, cooking, fitness, going 
+            for drives and spending way too much time with my mechanical keyboard.
+          </p>
+          <p className="mt-3">
+            Personal stats: 5'7" on a good day, 
+            175, stack experience, 
+            above average mario golf player, 
+            sub 5 minute oil change time, 
+            120 pushups high score
           </p>
         </div>
       </div>
@@ -44,7 +52,7 @@ const About = () => {
         <div className="mt-3">{workFormatted()}</div>
 
         <a
-          href="https://www.linkedin.com/in/alliecaton/"
+          href="https://www.linkedin.com/in/ornie-payer/"
           className="text-purple-light inline-block mt-6 hover:text-purple-dark"
           target="_blank"
           rel="noreferrer"

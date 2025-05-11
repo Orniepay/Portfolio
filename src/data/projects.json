@@ -1,28 +1,20 @@
 [
   {
-    "title": "Thinking Money 4 Kids",
-    "description": "Suite of browser-based games and activities built for The American Library Association & FINRA to teach kids about financial literacy. My work on this project also included creating android versions of the games to be used on proprietary android tablets.",
-    "tech": "React • Vue3 • TypeScript • JavaScript • Cordova (for android versions)",
-    "link": "https://tm4k.ala.org/"
+    "title": "UB Commons",
+    "description": "Restaurant food web app for university at buffalo that allows users to search for restaurants and view their menus. Users can create an account, write reviews, rate restaurants and etc.",
+    "tech": "HTML • CSS • Javascript • Flask • Docker",
+    "link": "https://github.com/Orniepay/UB-Commons"
   },
   {
-    "title": "Digital Garden Client & API",
-    "description": "Simple personal website used to blog about dev projects, and other things that are on my mind.",
-    "tech": "Node.js • Express • PostgreSQL • Sequelize • TypeScript • Vue3 • Piñia",
-    "frontend": "https://github.com/alliecaton/digital-garden/",
-    "backend": "https://github.com/alliecaton/api-digital-garden",
-    "link": "https://garden.alliecaton.com"
+    "title": "VitalCare",
+    "description": "Remote Patient Monitoring System Web App that allows patients to track their health data and share it with their healthcare providers.",
+    "tech": "HTML • CSS • Javascript • Python • C++ • Docker • Arduino",
+    "link": "https://github.com/Orniepay/VitalCare"
   },
   {
-    "title": "MarketEdge",
-    "description": "Data dashboard for B2G companies to track active RFP procurement opportunities and other vital information for their sales & marketing efforts. Link below links to a marketing website for the MarketEdge application, as the application itself is a paid product.",
-    "tech": "Vue3 • TypeScript • Piñia • Laravel • Cypress",
-    "link": "https://theatlasmarketedge.com/"
-  },
-  {
-    "title": "The Atlas",
-    "description": "LinkedIn style community for local government officials to connect and share resources. Includes posting functionality, private messaging, and case study article creator/editor and viewer.",
-    "tech": "Vue + Options API • Nuxt • TypeScript • Vuex • Cypress",
-    "link": "https://the-atlas.com"
+    "title": "WAYFARER",
+    "description": "Indie 2D platformer game with traversable terrain, unique gadgets, special collectibles, immersive story, distinct biomes and etc.",
+    "tech": "Python • PyGame • Figma • Agile • Kanban • Scrum",
+    "link": "https://github.com/Orniepay/WAYFARER/tree/main"
   }
 ]
