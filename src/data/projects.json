@@ -2,7 +2,7 @@
   {
     "title": "UB Commons",
     "description": "Restaurant food web app for university at buffalo that allows users to search for restaurants and view their menus. Users can create an account, write reviews, rate restaurants and etc.",
-    "tech": "HTML • CSS • Javascript • Flask • Docker",
+    "tech": "HTML • CSS • Javascript • Flask • Docker • MongoDB • REST API • CRUD • NGINX",
     "link": "https://github.com/Orniepay/UB-Commons"
   },
   {
@@ -14,7 +14,8 @@
   {
     "title": "WAYFARER",
     "description": "Indie 2D platformer game with traversable terrain, unique gadgets, special collectibles, immersive story, distinct biomes and etc.",
-    "tech": "Python • PyGame • Figma • Agile • Kanban • Scrum",
+    "tech": "Python • PyGame • Figma",
+    "methodologies": "Agile • Kanban • Scrum",
     "link": "https://github.com/Orniepay/WAYFARER/tree/main"
   }
 ]
