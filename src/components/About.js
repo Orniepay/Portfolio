@@ -20,7 +20,7 @@ const About = () => {
 
         <div className="text-yellow">
           <p className="mt-3">
-            I'm Ornie, a software engineer who loves working on 
+            I'm Ornie, a software developer who loves working on 
             projects where I can bring my creativity and curiosity to the 
             table, and pick up new skills along the way expanding my 
             knowledge. I'm drawn to teams where everyone-whether it's 

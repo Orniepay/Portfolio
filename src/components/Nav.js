@@ -11,7 +11,7 @@ const Nav = () => {
         href="/"
         className="text-purple-light block hover:text-purple-dark text-[30px] cursor-pointer"
       >
-        🏎️✦
+        🏇🏼✦🏎️
       </a>
 
       <div className="flex gap-6 sm:gap-10 items-center text-xs sm:text-[14px]">
