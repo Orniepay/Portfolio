@@ -66,7 +66,9 @@ const Projects = () => {
 
   return (
     <div id="projects" className="w-full my-24">
-      <div className="text-2xl text-purple-light mb-6">Projects</div>
+      <div className="text-2xl text-purple-light mb-6">
+        <span className="text-white drop-shadow-neon-gray">Projects</span>
+      </div>
 
       <div className="container flex flex-row gap-20 flex-wrap">
         {projectsFormatted()}

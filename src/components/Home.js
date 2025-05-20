@@ -1,4 +1,4 @@
-import Typewriter from 'typewriter-effect'   // <-- NEW
+import Typewriter from 'typewriter-effect'   
 import img from '../assets/me.jpg'
 import QuickLinks from './QuickLinks.js'
 
@@ -14,19 +14,20 @@ const Home = () => {
                 loop: true,
                 delay: 70,
                 cursor: '',
-                html: true                                         // ← let HTML render
+                html: true                                        
               }}
               onInit={(tw) => {
                 tw.typeString(
                   // first line ─ def orniePayer():
-                  `<span class='text-purple-dark'>def</span>` +
-                    `<span class='text-yellow'> orniePayer` +
-                      `<span class='text-purple-dark'>()</span></span>` +
-                    `<span class='text-purple-dark'>:</span>` +
+                  `<span class="text-purple-dark drop-shadow-neon-white">def</span>` +
+                  `<span class="text-yellow drop-shadow-neon-yellow"> orniePayer</span>` +
+                  `<span class="text-purple-dark drop-shadow-neon-white">():</span>` +
 
                   // line break + indent
-                  `<br/><span class='pl-6 text-xl text-yellow'>` +   // ← text-xl here
-                    `<span class='text-purple-dark'>return</span> software developer` +
+                  `<br/>` + 
+                  `<span class="pl-6 text-xl">` +
+                    `<span class="text-white drop-shadow-neon-white">return</span>` +
+                    `<span class="text-yellow drop-shadow-neon-yellow"> software developer</span>` +
                   `</span>`
                 )
                   .pauseFor(1500)     // show the full text for a moment
@@ -42,6 +43,7 @@ const Home = () => {
           </div>
         </div>
 
+        
         <img
           className="rounded-[20%] w-[90%] sm:w-[35%]"
           alt="portrait of Ornie Payer"

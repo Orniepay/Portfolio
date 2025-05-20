@@ -16,7 +16,9 @@ const About = () => {
   return (
     <div id="about" className="container gap-20 flex justify-between my-24">
       <div className="basis-6/12  mr-3">
-        <div className="text-purple-light text-2xl mb-6">About</div>
+        <div className="text-purple-light text-2xl mb-6">
+          <span className="text-white drop-shadow-neon-gray">About</span>
+        </div>
 
         <div className="text-yellow">
           <p className="mt-3">
@@ -47,7 +49,9 @@ const About = () => {
       </div>
 
       <div>
-        <div className="text-purple-light text-2xl mb-6">Work Experience</div>
+        <div className="text-purple-light text-2xl mb-6">
+          <span className="text-white drop-shadow-neon-gray">Work Experience</span>
+        </div>
 
         <div className="mt-3">{workFormatted()}</div>
 
