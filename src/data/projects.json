@@ -1,15 +1,33 @@
 [
   {
-    "title": "UB Commons",
-    "description": "Restaurant food web app for university at buffalo that allows users to search for restaurants and view their menus. Users can create an account, write reviews, rate restaurants and etc.",
-    "tech": "HTML • CSS • Javascript • Flask • Docker • MongoDB • REST API • CRUD • NGINX",
-    "link": "https://github.com/Orniepay/UB-Commons"
+    "title": "Brain-Computer Interface Speech Decoder",
+    "description": "Cross-platform app to record and visualize 32-channel EEG/audio data with real-time spectrograms and ONNX-based speech intent inference",
+    "tech": "Electron • TypeScript • BrainFlow • ONNX",
+    "link": "https://github.com/Orniepay/MindVoice-UI"
   },
+  {
+    "title": "Assistive Technology Communication Device",
+    "description": "Multi-modal assistive communication system for patients with ALS and motor impairments, featuring text-to-speech, email functionality, and environmental controls. Developed modular Python-based interface using Eel framework for HTML/JS frontend integration. Implemented RF communication protocol between Raspberry Pi and Arduino for IR-blaster TV control and wireless outlet management.",
+    "tech": "Raspberry Pi 4 • Arduino UNO • ESP32 • Python • JavaScript • Eel Framework • FS1000A RF Modules • IR-Blaster • HTML/CSS",
+    "link": "https://github.com/UB-Assistive-Technology"
+  },  
+  {
+    "title": "Automated Locker",
+    "description": "Assistive locker system for special-needs students with multiple prototypes including touchscreen keypad and RFID fob authentication",
+    "tech": "Arduino • RFID Modules • LCD Interface • Embedded C",
+    "link": ""
+  }, 
   {
     "title": "VitalCare",
     "description": "Remote Patient Monitoring System Web App that allows patients to track their health data and share it with their healthcare providers.",
     "tech": "HTML • CSS • Javascript • Python • C++ • Docker • Arduino",
     "link": "https://github.com/Orniepay/VitalCare"
+  },
+  {
+    "title": "UB Commons",
+    "description": "Restaurant food web app for university at buffalo that allows users to search for restaurants and view their menus. Users can create an account, write reviews, rate restaurants and etc.",
+    "tech": "HTML • CSS • Javascript • Flask • Docker • MongoDB • REST API • CRUD • NGINX",
+    "link": "https://github.com/Orniepay/UB-Commons"
   },
   {
     "title": "WAYFARER",
