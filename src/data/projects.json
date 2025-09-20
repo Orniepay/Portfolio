@@ -1,20 +1,20 @@
 [
   {
-    "title": "Brain-Computer Interface Speech Decoder",
-    "description": "Cross-platform app to record and visualize 32-channel EEG/audio data with real-time spectrograms and ONNX-based speech intent inference",
-    "tech": "Electron • TypeScript • BrainFlow • ONNX",
-    "link": "https://github.com/Orniepay/MindVoice-UI"
-  },
-  {
     "title": "Assistive Technology Communication Device",
     "description": "Multi-modal assistive communication system for patients with ALS and motor impairments, featuring text-to-speech, email functionality, and environmental controls. Developed modular Python-based interface using Eel framework for HTML/JS frontend integration. Implemented RF communication protocol between Raspberry Pi and Arduino for IR-blaster TV control and wireless outlet management.",
     "tech": "Raspberry Pi 4 • Arduino UNO • ESP32 • Python • JavaScript • Eel Framework • FS1000A RF Modules • IR-Blaster • HTML/CSS",
     "link": "https://github.com/UB-Assistive-Technology"
-  },  
+  }, 
+  {
+    "title": "Brain-Computer Interface Speech Decoder",
+    "description": "Cross-platform app to record and visualize 32-channel EEG/audio data with real-time spectrograms and ONNX-based speech intent inference",
+    "tech": "Electron • TypeScript • BrainFlow • ONNX",
+    "link": "https://github.com/Orniepay/MindVoice-UI"
+  }, 
   {
     "title": "Automated Locker",
     "description": "Assistive locker system for special-needs students with multiple prototypes including touchscreen keypad and RFID fob authentication",
-    "tech": "Arduino • RFID Modules • LCD Interface • Embedded C",
+    "tech": "Arduino • RFID Modules • LCD Interface • Solenoid Locks • Embedded C",
     "link": ""
   }, 
   {
