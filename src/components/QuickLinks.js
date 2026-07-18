@@ -1,6 +1,6 @@
 import { AiFillGithub, AiOutlineDownload, AiFillLinkedin } from 'react-icons/ai'
 
-import resume from '../assets/resume'
+import resume from '../assets/resume.jpeg'
 
 const QuickLinks = () => {
   return (
